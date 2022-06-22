@@ -1,14 +1,12 @@
-### Hola 👋
-
-Soy Luisa Martínez.
-Desarrolladora Front-End
+<h1 align="center">Hola!👋, Soy María José</h1>
+<h3 align="center">Desarrolladora Front-End</h3>
 
 
 - 🔭 Estoy trabajando en [Burguer Queen-Api-Client](https://github.com/Luisa006/BOG004-burger-queen-api-client)
-- 🌱 Actualmente estoy aprendiendo React
+- 🌱 Actualmente estoy aprendiendo **React**
 - 💬 Puedes prefguntarme sobre HTML, CSS, Javascript, figma, Node.js, firebase.
 - ⚡ Dato curioso: Me encantan los gatos 🐱 y el rock japonés 
-- 📫 Me puedes encontrar por acá: [![Linkedin: Luisa Martínez](https://www.linkedin.com/in/luisa-martínez-a23a0a168/)] ó Gmail lufermartinez0618@gmail.com
+- 📫 Me puedes encontrar por acá: [Linkedin](https://www.linkedin.com/in/luisa-martínez-a23a0a168/)] ó Gmail lufermartinez0618@gmail.com
 - Puedes ver mi CV [aquí](https://www.canva.com/design/DAE8PNbtgTo/X6OT0VZWArTISwA05AkK8w/view?utm_content=DAE8PNbtgTo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - Tech Skills: 
@@ -25,6 +23,8 @@ Desarrolladora Front-End
 
 
 ✨Todo feedback será bien recibido✨
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Luisa006&" alt="Luisa006" /></p>
 
 <!--
 **Luisa006/Luisa006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
