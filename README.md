@@ -4,7 +4,7 @@
 
 - 🔭 Estoy trabajando en [Burguer Queen-Api-Client](https://github.com/Luisa006/BOG004-burger-queen-api-client)
 - 🌱 Actualmente estoy aprendiendo **React**
-- 💬 Puedes prefguntarme sobre HTML, CSS, Javascript, figma, Node.js, firebase.
+- 💬 Puedes preguntarme sobre HTML, CSS, Javascript, figma, Node.js, firebase.
 - ⚡ Dato curioso: Me encantan los gatos 🐱 y el rock japonés 
 - 📫 Me puedes encontrar por acá: [Linkedin](https://www.linkedin.com/in/luisa-martínez-a23a0a168/)] ó Gmail lufermartinez0618@gmail.com
 - Puedes ver mi CV [aquí](https://www.canva.com/design/DAE8PNbtgTo/X6OT0VZWArTISwA05AkK8w/view?utm_content=DAE8PNbtgTo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
