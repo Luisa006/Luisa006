@@ -10,7 +10,8 @@ Desarrolladora Front-End
 - ⚡ Dato curioso: Me encantan los gatos 🐱 y el rock japonés 
 - 📫 Me puedes encontrar por acá: [![Linkedin: Luisa Martínez](https://www.linkedin.com/in/luisa-martínez-a23a0a168/)] ó Gmail lufermartinez0618@gmail.com
 - Puedes ver mi CV [aquí](https://www.canva.com/design/DAE8PNbtgTo/X6OT0VZWArTISwA05AkK8w/view?utm_content=DAE8PNbtgTo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
--Tech Skills: 
+
+- Tech Skills: 
 ![https://developer.mozilla.org/es/docs/Web/HTML](https://res.cloudinary.com/dtaq1ip2g/image/upload/v1653397840/file_type_html_icon_130541_atmw6h.png)
 ![https://developer.mozilla.org/es/docs/Web/CSS](https://res.cloudinary.com/dtaq1ip2g/image/upload/v1653398039/file_type_css_icon_130661_kigv4b.png)
 ![https://developer.mozilla.org/es/docs/Web/JavaScript](https://res.cloudinary.com/dtaq1ip2g/image/upload/v1653398044/javascript_icon_130900_va5nkc.png)
@@ -22,8 +23,6 @@ Desarrolladora Front-End
 ![https://git-scm.com/](https://res.cloudinary.com/dtaq1ip2g/image/upload/v1653397045/file_type_git_icon_130581_yfdybp.png)
 ![https://github.com/](https://res.cloudinary.com/dtaq1ip2g/image/upload/v1653397485/github_logo_icon_169115_fxnzjn.png)
 
-
-68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966
 
 ✨Todo feedback será bien recibido✨
 
